@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "target-dir": "/",
     "extra": {
-    }
+    },
     "autoload": {
         "classmap": [
             "source/"
